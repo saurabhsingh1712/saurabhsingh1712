@@ -1,6 +1,7 @@
-- Web developer
+- Full Stack Software Developer
 - 👀 MERN stack Developer
-- leetcode : leetcode.com/saurabhksingh7542
+- leetcode : https://leetcode.com/saurabhksingh7542
+
 
 <!---
 saurabhsingh1712/saurabhsingh1712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
